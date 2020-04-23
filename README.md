@@ -6,10 +6,6 @@
 
 <p align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## :rocket: Sobre o desafio
 
 Nesse desafio, deve criada uma aplicação para treinar o que foi aprendido até agora no ReactJS!
