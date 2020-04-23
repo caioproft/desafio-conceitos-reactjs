@@ -30,7 +30,6 @@ function App() {
     setRepositories(repositories.filter(
       repository => repository.id !== id
     ));
-  
   }
 
   return (
